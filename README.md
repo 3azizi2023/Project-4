@@ -1,6 +1,6 @@
-# projet-4
+# Project-4
 
-Segmenting customers of an e-commerce website
+# Segmenting customers of an e-commerce website
 
 Olist is a Brazilian company that offers a solution for selling on online marketplaces.
 
